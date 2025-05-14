@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">hamburgueriaz</string>
+    <string name="sub">−</string>
+    <string name="fa_a_seu_pedido">Faça seu pedido!</string>
+    <string name="nome">Nome</string>
+    <string name="bacon">Bacon</string>
+    <string name="queijo">Queijo</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="add">+</string>
+    <string name="_0">0</string>
+    <string name="_sub">-</string>
+    <string name="resumo_do_pedido">Resumo do pedido</string>
+    <string name="r_0">R$ 0</string>
+    <string name="fazer_pedido">FAZER PEDIDO</string>
+    <string name="todo">TODO</string>
+    <string name="_bacon">Bacon</string>
+    <string name="fazer_pedido_string">Fazer pedido</string>
+</resources>
